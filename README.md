@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Open your browser and enjoy the app.
