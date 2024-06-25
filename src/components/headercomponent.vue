@@ -120,7 +120,12 @@ export default {
 </script>
 
 <style scoped>
-
+h1{
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 .ntask{
     font-family: Montserrat;
     font-weight: bold; 
@@ -182,7 +187,7 @@ export default {
 }
 
 .linea {
-    display: flex;
+    
     justify-content: space-between;
     align-items: center;
     padding: 10px;
@@ -197,6 +202,7 @@ export default {
     height: 40px;
     cursor: pointer;
     font-size: 1.5rem;
+
 }
 
 .blu-button:hover, .blu-button2:hover {
